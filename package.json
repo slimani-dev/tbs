@@ -13,9 +13,11 @@
     "@nuxt/content": "^3.8.2",
     "@tailwindcss/typography": "^0.5.19",
     "@tailwindcss/vite": "^4.1.17",
+    "@vueuse/core": "^14.0.0",
     "better-sqlite3": "^12.4.1",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
+    "embla-carousel-vue": "^8.6.0",
     "lucide-vue-next": "^0.553.0",
     "nuxt": "^4.2.1",
     "reka-ui": "^2.6.0",
@@ -29,5 +31,6 @@
   },
   "devDependencies": {
     "typescript": "^5.9.3"
-  }
+  },
+  "packageManager": "pnpm@10.23.0+sha512.21c4e5698002ade97e4efe8b8b4a89a8de3c85a37919f957e7a0f30f38fbc5bbdd05980ffe29179b2fb6e6e691242e098d945d1601772cad0fef5fb6411e2a4b"
 }

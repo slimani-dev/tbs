@@ -5,10 +5,12 @@ const currentYear = new Date().getFullYear();
 <template>
   <footer class="text-center py-6 mt-8">
 
+    <!--
     <div class="flex flex-wrap items-center justify-center">
       <NuxtLink to="/activities" class="nav-button" active-class="nav-button-active">الأنشطة</NuxtLink>
       <NuxtLink to="/instructions" class="nav-button" active-class="nav-button-active">تعليمات</NuxtLink>
     </div>
+    -->
 
     <p class="text-sm text-muted">
       &copy; {{ currentYear }} متوسطة الطيب ابراهيم شريفة. كل الحقوق محفوظة.

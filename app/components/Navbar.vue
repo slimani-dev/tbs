@@ -2,7 +2,7 @@
   <nav
       class="mt-8 p-2 bg-card-light dark:bg-card-dark rounded-lg shadow-sm flex items-center justify-center gap-2">
     <NuxtLink to="/" class="nav-button" active-class="nav-button-active">الرئيسية</NuxtLink>
-    <NuxtLink to="/news" class="nav-button" active-class="nav-button-active">الأخبار</NuxtLink>
+    <NuxtLink to="/content/news" class="nav-button" active-class="nav-button-active">الأخبار</NuxtLink>
     <NuxtLink to="/about" class="nav-button" active-class="nav-button-active">حول المدرسة</NuxtLink>
     <NuxtLink to="/contact" class="nav-button" active-class="nav-button-active">اتصل بنا</NuxtLink>
   </nav>
